@@ -1,0 +1,1 @@
+The cli.py file consists of the code for command line interface where I'm interacting with the SQL database. This has to be integrated with the client server model where the server will handle multiple client connection requests using multithreading.
